@@ -1,0 +1,91 @@
+
+
+McMaster
+----------------
+
+PN 4480K11,   Qty=1, Swivel Hose Straight Fitting for Air Brass, 1/4 NPT Female x 1/4 NPT Male,  https://www.mcmaster.com/#4480k11/=1dydeh1
+
+
+PN 91095K85,  Qty=1, Hose Elbow with 1 Swivel, Aluminum, NPT 1/4 Female x 1/4 Male,   https://www.mcmaster.com/#91095k85/=1dydgc2
+
+PN 44555K132,  Qty=2,  Brass Low-Pressure Barbed Tube Fitting for Air and Water, for 1/4" Tube ID x 1/4 NPTF Male, https://www.mcmaster.com/#44555k132/=1dydjly
+
+
+PN 44555K125, Qty=2,  Brass Low-Pressure Barbed Tube Fitting for Air and Water, for 1/4" Tube ID x 1/4 NPTF Female, https://www.mcmaster.com/#44555k125/=1dydlo8
+
+
+PN 5894K34,  10ft,  Ultra-Soft Tygon PVC Tubing for Food and Beverage, 1/4" ID, 3/8" OD, https://www.mcmaster.com/#5894k34/=1dyeqwt
+
+
+PN 6086K112, Qty=1,  Quick-Disconnect Bushing JA Style, for 5/8" Shaft Diameter, https://www.mcmaster.com/#6086k112/=1dyenk2
+
+
+PN 6495K211, Qty=1,  Timing Belt Pulley for 1/2" Maximum Belt Width, L Series Quick-Disconnect, 2.39" OD, https://www.mcmaster.com/#6495k211/=1dyeo5i
+
+
+PN 92196A339, Qty=1 pack of 25,   18-8 Stainless Steel Socket Head Screw 5/16"-24 Thread Size, 3/4" Long  https://www.mcmaster.com/#92196a339/=1dyetmt
+
+
+PN 26955A52, Qty=2,   General Purpose Tap for Through-Hole Threading, 5/16"-24 Thread Size, https://www.mcmaster.com/#26955a52/=1dyevdc
+
+
+
+
+
+Servo City
+---------------
+
+
+PN 545368,  Qty = 2,  5/8" Bore 90° Patterned Clamping Mount,  https://www.servocity.com/90-clamping-tube-hub
+
+
+PN 635266, Qty=2,  5/8" Aluminum Tubing,  Select Length = 4",  https://www.servocity.com/0-625-5-8-aluminum-tubing#371=455
+
+
+
+
+BigBearingStore
+------------------------
+
+
+(crooked) PN BLF202-10G, Qty=2,  5/8" Light Duty Two Bolt Flange Bearing BLF202-10G, https://www.thebigbearingstore.com/5-8-light-duty-two-bolt-flange-bearing-blf202-10g/
+
+
+==================================================================================================
+
+
+McMaster 
+--------
+
+PN 5968K72, Qty=1,  Mounted Sealed Ball Bearing with Two-Bolt Flange Steel with Cast Iron Housing, for 5/8" Shaft Diameter, https://www.mcmaster.com/#5968k72/=1e3i4qz
+
+PN 6495K215, Qty=1, Timing Belt Pulley for 1/2" Maximum Belt Width, L Series Quick-Disconnect, 3.34" OD, https://www.mcmaster.com/#6495k215/=1e3i59q
+
+PN 6484K702, Qty=1, L Series Timing Belt, Trade No. 176L050 (17.6"), https://www.mcmaster.com/#6484k702/=1e3i5jx
+
+PN 6484K146, Qty=1, L Series Timing Belt, Trade No. 187L050 (18.7"), https://www.mcmaster.com/#6484k146/=1e3i62q
+
+PN 6086K216, Qty=1, Quick-Disconnect Bushing SH Style, for 1" Shaft Diameter, https://www.mcmaster.com/#6086k216/=1e3i6lz
+
+PN 91249A146, Qty=1 pack of 100, Black-Oxide 18-8 Stainless Steel Pan Head Phillips Screws 6-32 Thread, 3/8" Long, https://www.mcmaster.com/#91249a146/=1e3idlr
+
+PN 91251A155, Qty=1 pack of 50, Black-Oxide Alloy Steel Socket Head Screw 6-32 Thread Size, 1-1/4" Long,  https://www.mcmaster.com/#91251a155/=1e3iefe
+
+
+Amazon
+------
+
+Zyltech Nema 23 Stepper Motor 2.5 A 1.3 Nm 184 oz.in 56mm Body w/ 1m Cable for 3D Printer/CNC
+https://www.amazon.com/Zyltech-Stepper-Motor-Cable-Printer/dp/B01H1B1H6Q/ref=sr_1_6?ie=UTF8&qid=1533917468&sr=8-6&keywords=stepper+motor+nema+23#feature-bullets-btf
+
+
+ServoCity
+----------
+
+PN 545579, Qty=2, Set Screw D-Hubs (Tapped), 0.770" Pattern,  Select 0.25" Bore, https://www.servocity.com/0-770-set-screw-d-hubs#348=95 
+
+PN 545548, Qty=2, 0.770" Pattern Set Screw Hubs, Select 0.25" Bore, https://www.servocity.com/770-set-screw-hubs#348=95
+
+PN 545386, Qty=2, Hub Spacer, Select 1" Thickness, https://www.servocity.com/hub-spacers#355=187
+
+
